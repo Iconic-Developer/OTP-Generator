@@ -1,0 +1,21 @@
+.otp-head{
+    background-color: rgb(29, 153, 85);
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    
+}
+
+.otp{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.flash img{
+    padding-left: 10px;
+    height: 40px;
+    width: 60px;
+    
+}
+
