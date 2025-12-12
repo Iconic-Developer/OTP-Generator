@@ -67,3 +67,15 @@
     width: 40px;
     padding: 0;
 }
+
+.div input{
+    height: 100%;
+    width: 100%;
+    border: none;
+    text-align: center;
+
+}
+input::placeholder{
+    color: gainsboro;
+    
+}
