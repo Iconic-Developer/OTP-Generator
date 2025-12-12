@@ -59,6 +59,7 @@
 
 .generator{
     font-weight: bold;
+    font-size: 22px;
     
 }
 
@@ -66,6 +67,7 @@
     height: 20px;
     width: 40px;
     padding: 0;
+
 }
 
 .div input{
